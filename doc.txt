@@ -1,0 +1,23 @@
+font-family:
+Poppins Regular 400
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+font-family: 'Poppins', sans-serif;
+
+Poppins
+Bold 700
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+font-family: 'Poppins', sans-serif;
+
+Roboto
+Regular 400
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+font-family: 'Roboto', sans-serif;
+
+colors:
+1)header+banner background: #F0FFF0;
+
+text color:
+1)header background: #000000; sign in background: #21B573; hover background: #FD511A;
+
+
+
